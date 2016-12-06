@@ -1,0 +1,120 @@
+/*** sectioning elements ***/
+
+body {
+  font-family: 'Roboto Slab', serif;
+  padding: 7px;
+  text-align: center;
+}
+
+header {
+
+}
+
+main {
+ background-color: #ddd;
+}
+
+footer {
+
+}
+
+nav {
+
+}
+
+section {
+
+}
+
+aside {
+
+}
+
+
+/**** content styles ***/
+
+h1 {
+  font-family: 'Roboto Slab', serif;
+}
+
+h2 {
+
+}
+
+h3 {
+
+}
+
+h4 {
+ font-size: 20px;
+}
+
+h5 {
+ font-size: 40px;
+}
+
+h6 {
+
+}
+
+p {
+
+}
+
+blockquote {
+
+}
+
+ol {
+
+}
+
+ul {
+
+}
+
+li {
+
+}
+
+table {
+
+}
+
+tr {
+
+}
+
+th {
+
+}
+
+td {
+
+}
+
+
+/*** image styles ***/
+
+img  {
+
+}
+
+
+/*** link styles ***/
+
+a:link {
+
+}
+
+a:visited {
+
+}
+
+a:hover {
+
+}
+
+a:active {
+
+}
